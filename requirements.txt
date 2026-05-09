@@ -1,0 +1,4 @@
+moviepy<2
+Pillow
+arabic-reshaper
+python-bidi

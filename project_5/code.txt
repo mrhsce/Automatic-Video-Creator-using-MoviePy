@@ -1,0 +1,14 @@
+﻿outputFolder = "project_5/"
+videoClipFileName = outputFolder + "veisi.mp4"
+audioClipfFileName = outputFolder + "shora.wma"
+
+
+
+videoArray.append(Video("شورا", "1", 8, 38, 10, 54))
+videoArray.append(Video("شورا", "2", 16, 3, 18, 2))
+videoArray.append(Video("شورا", "3", 19, 13, 25, 38))
+videoArray.append(Video("شورا", "4", 26, 38, 36, 8))
+videoArray.append(Video("شورا", "5", 38, 11, 43, 46))
+videoArray.append(Video("شورا", "6", 49, 23, 53, 32))
+videoArray.append(Video("شورا", "7", 57, 4, 57, 39))
+videoArray.append(Video("شورا", "8", 58, 7, 60, 32))

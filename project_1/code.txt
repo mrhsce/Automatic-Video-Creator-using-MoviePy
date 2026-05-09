@@ -1,0 +1,7 @@
+﻿videoArray.append(Video("حقوق انسان", 2,43,5,28))
+videoArray.append(Video("جایگاه عقل در اسلام", 6, 27, 13, 42))
+videoArray.append(Video("هدف از رسالت ", 16, 24, 16, 43))
+videoArray.append(Video(" آزادی های اساسی انسان محور مقاصد شریعت است ", 23, 54, 27, 41))
+videoArray.append(Video("مشروعیت جهاد", 29, 54, 32, 55))
+videoArray.append(Video("آزادی", 40, 53, 45, 9))
+videoArray.append(Video("اهتمام به جوانان", 53, 13, 54, 19))

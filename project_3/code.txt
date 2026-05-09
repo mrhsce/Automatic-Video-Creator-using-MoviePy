@@ -1,0 +1,4 @@
+﻿outputFolder = "project_3/"
+
+videoArray.append(Video("اساس موفقیت یک جمع مومن در سلامت قلب آن ها است", 6, 51, 7, 53, 70))
+videoArray.append(Video("حضور و مشارکت در انتخابات", 9, 9, 13, 25))
